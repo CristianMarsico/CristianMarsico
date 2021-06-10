@@ -1,4 +1,4 @@
-console.log('<h1>Cristian 👋</h1>')
+console.log('<h4><b>Cristian 👋<b></h4>')
 
 Skills: </ JAVA / PHP/ VUE JS / JS / HTML5 / CSS />
 
